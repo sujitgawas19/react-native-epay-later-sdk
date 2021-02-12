@@ -49,6 +49,6 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    implementation 'com.gitlab.paylater:upi-sdk-for-non-banking-partners:v0.0.1'
+    implementation 'com.gitlab.paylater:upi-sdk-for-non-banking-partners:v0.0.3'
 }
   
